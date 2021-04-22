@@ -47,6 +47,7 @@ var total = objetoMisterioso.numeroMisterioso*5;
 return total;
 }
 
+
 function eliminarPropiedad(objeto, unaPropiedad) {
   // Elimina la propiedad "unaPropiedad" de "objeto"
   // tip: tenes que usar bracket notation
